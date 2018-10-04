@@ -9,6 +9,7 @@ app.config['MYSQL_DATABASE_USER'] = 'root'
 app.config['MYSQL_DATABASE_PASSWORD'] = '1234'
 app.config['MYSQL_DATABASE_DB'] = 'fetch_data'
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
+TABLE_NAME = 'pet'
 mysql.init_app(app)
 conn = mysql.connect()
 cursor = conn.cursor()
@@ -22,8 +23,7 @@ def main():
     if start_date and end_date:
         start_date = start_date.replace('-','')
         end_date = end_date.replace('-','')
-        print ("SELECT * from pet where  birth > "+start_date+" and birth < "+end_date)
-        cursor.execute("SELECT * from pet where  birth > "+start_date+" and birth < "+end_date )
+        cursor.execute("SELECT * from "+TABLE_NAME+" where  nyc_date > "+start_date+" and nyc_date < "+end_date )
         data = cursor.fetchall()
         
     return render_template('index.html',data=data)
