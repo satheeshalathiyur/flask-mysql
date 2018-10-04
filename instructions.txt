@@ -1,0 +1,6 @@
+1) create virtualenvirnment by execting following command
+   virtualenv virtual
+2) activate virtualenvironment by using following command
+   virtual\Scripts\activate
+3) install packages by using following command
+   pip install -r requirements.txt
