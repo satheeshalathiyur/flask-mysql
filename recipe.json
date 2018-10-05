@@ -1,0 +1,639 @@
+{
+    'Details': {
+        'Name': 'Cheesy Mini Pepper Poppers With Sprouted Rice',
+        'Description': None,
+        'ExperienceLevel': 'Easy',
+        'Course': 'Side Dish',
+        'Cuisine': 'American',
+        'KeyIngredient': 'Pork',
+        'CookingMethod': 'Bake',
+        'SpecialDiet': None,
+        'Occasion': 'Dinner Party',
+        'Brand': 'truRoots®',
+        'Group': None,
+        'Category': None,
+        'Variety': None,
+        'Yield': '48 appetizers',
+        'Yield_Description': None,
+        'Preparation_Days': 0,
+        'Preparation_Hours': 0,
+        'Preparation_Minutes': 55,
+        'Preparation_Seconds': 0,
+        'Cooking_Days': 0,
+        'Cooking_Hours': 0,
+        'Cooking_Minutes': 40,
+        'Cooking_Seconds': 0,
+        'LastUpdate': None,
+        'ReadyIn_Days': 0,
+        'ReadyIn_Hours': 1,
+        'ReadyIn_Minutes': 35,
+        'ReadyIn_Seconds': 0,
+        'Rating': None,
+        'ImagePath': 'http://www.yummly.com',
+        'Source': None,
+        'IsImageAvailable': True,
+        'RecipeStatus': 'Published',
+        'IsTricksandTips': False,
+        'Recipe_Video_URL': None,
+        'IsPreferredRecipe': False,
+        'IsParticipateInPromotion': False,
+        'RatingReview': None,
+        'IsTemporaryRecipe': False,
+        'Internal_RatingID': None,
+        'TestingID': 1,
+        'Testing_Date': '6/18/2015',
+        'RecipeID': 0,
+        'SEO_URL': None,
+        'SEO_Title': None,
+        'SEO_Description': None,
+        'Preparation_Total_Minutes': 0,
+        'Cooking_Total_Minutes': 0,
+        'ReadyIn_Total_Minutes': 0
+    },
+    'Ingredients': {
+        'Ingredient': [
+            {
+                'DisplayOrder': 1,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'water',
+                'Amount': '3/4',
+                'Unit': 'cup',
+                'UnitAbbreviation': 'cup',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 2,
+                'RowType': 'Brand Ingredient',
+                'Name': 'truRoots® Accents® Organic Sprouted Rice Trio',
+                'Amount': '1/3',
+                'Unit': 'cup',
+                'UnitAbbreviation': 'cup',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 3,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'sweet mini peppers (2 to 3-inch long)',
+                'Amount': '2 (8 oz.)',
+                'Unit': 'packages',
+                'UnitAbbreviation': 'pkgs.',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 4,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'hot Italian pork sausage',
+                'Amount': '1/2',
+                'Unit': 'pound',
+                'UnitAbbreviation': 'lb.',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 5,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'finely minced onion',
+                'Amount': '1/2',
+                'Unit': 'cup',
+                'UnitAbbreviation': 'cup',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 6,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'minced garlic',
+                'Amount': '1',
+                'Unit': 'teaspoon',
+                'UnitAbbreviation': 'tsp.',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 7,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'marinara sauce',
+                'Amount': '3/4',
+                'Unit': 'cup',
+                'UnitAbbreviation': 'cup',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 8,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'Italian seasoning',
+                'Amount': '1',
+                'Unit': 'teaspoon',
+                'UnitAbbreviation': 'tsp.',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 9,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'fine sea salt',
+                'Amount': '1/2',
+                'Unit': 'teaspoon',
+                'UnitAbbreviation': 'tsp.',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 10,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'finely shredded Italian 5-Cheese Blend, divided',
+                'Amount': '1 1/2',
+                'Unit': 'cups',
+                'UnitAbbreviation': 'cups',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 11,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'fresh finely chopped basil',
+                'Amount': '2',
+                'Unit': 'tablespoons',
+                'UnitAbbreviation': 'tbsps.',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            }
+        ]
+    },
+    'Directions': {
+        'Direction': [
+            {
+                'DisplayOrder': 1,
+                'Name': 'HEAT oven to 400°F. Line 11 x 17-inch baking pan with parchment paper.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            },
+            {
+                'DisplayOrder': 2,
+                'Name': 'BRING water to boil in medium saucepan over high heat. Add rice. Reduce to simmer. Cover and cook 25 minutes or until liquid is absorbed. Let stand covered, 10 minutes. Fluff with fork.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            },
+            {
+                'DisplayOrder': 3,
+                'Name': 'CUT each pepper in half, from stem to tip. Remove any pith or seeds.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            },
+            {
+                'DisplayOrder': 4,
+                'Name': 'BROWN sausage in large skillet over medium-high heat. Drain fat, if necessary. Add onion and garlic. Cook until fragrant. Stir in rice, marinara sauce, Italian Seasoning and salt. Cook 5 minutes. Remove from heat. Stir in 1/2 cup cheese and basil.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            },
+            {
+                'DisplayOrder': 5,
+                'Name': 'FILL each pepper with sausage mixture. Place on prepared baking sheet. Bake 10 minutes or until heated through and peppers are still crisp. Top with remaining cheese. Bake until cheese is melted, about 3 minutes.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            }
+        ]
+    },
+    'NutritionalInformation': {
+        'ServingSize': '2 appetizers, 1/24 of recipe',
+        'CaloriesPerServing': 70.0,
+        'TotalFatGrams': 4.0,
+        'CaloriesFromFatGrams': 35.0,
+        'CaloriesFromFatGramsPctDailyValue': 0.0,
+        'SaturatedFatGrams': 1.5,
+        'SaturatedFatGramsPctDailyValue': 8.0,
+        'PolyunsaturatedFatGrams': 0.0,
+        'PolyunsaturatedFatGramsPctDailyValue': 0.0,
+        'MonounsaturatedFatGrams': 0.0,
+        'MonounsaturatedFatGramsPctDailyValue': 0.0,
+        'CholesterolMilligrams': 10.0,
+        'CholesterolMilligramsPctDailyValue': 3.0,
+        'SodiumMilligrams': 220.0,
+        'SodiumMilligramsPctDailyValue': 9.0,
+        'PotassiumMilligrams': 0.0,
+        'PotassiumMilligramsPctDailyValue': 0.0,
+        'TotalCarbohydratesGrams': 5.0,
+        'TotalCarbohydratesGramsPctDailyValue': 2.0,
+        'DietaryFiberGrams': 1.0,
+        'DietaryFiberGramsPctDailyValue': 2.0,
+        'SugarsGrams': 1.0,
+        'SugarsGramsPctDailyValue': 0.0,
+        'ProteinGrams': 4.0,
+        'ProteinGramsPctDailyValue': 0.0,
+        'VitaminA': 0.0,
+        'VitaminAPctDailyValue': 4.0,
+        'Calcium': 0.0,
+        'CalciumPctDailyValue': 6.0,
+        'VitaminD': 0.0,
+        'VitaminDPctDailyValue': 0.0,
+        'Thiamin': 0.0,
+        'ThiaminPctDailyValue': 0.0,
+        'Niacin': 0.0,
+        'NiacinPctDailyValue': 0.0,
+        'VitaminB6': 0.0,
+        'VitaminB6PctDailyValue': 0.0,
+        'Phosphorus': 0.0,
+        'PhosphorusPctDailyValue': 0.0,
+        'Zinc': 0.0,
+        'ZincPctDailyValue': 0.0,
+        'VitaminC': 0.0,
+        'VitaminCPctDailyValue': 10.0,
+        'Iron': 0.0,
+        'IronPctDailyValue': 2.0,
+        'VitaminE': 0.0,
+        'VitaminEPctDailyValue': 0.0,
+        'Riboflavin': 0.0,
+        'RiboflavinPctDailyValue': 0.0,
+        'Folate': 0.0,
+        'FolatePctDailyValue': 0.0,
+        'VitaminB12': 0.0,
+        'VitaminB12PctDailyValue': 0.0,
+        'Magnesium': 0.0,
+        'MagnesiumPctDailyValue': 0.0,
+        'Copper': 0.0,
+        'CopperPctDailyValue': 0.0,
+        'TransFatGrams': 0.0,
+        'TransFatGramsPctDailyValue': 0.0
+    },
+    'Courses': {
+        'Course': [
+            {
+                'Name': 'Side Dish',
+                'CourseID': 0
+            },
+            {
+                'Name': 'Appetizer',
+                'CourseID': 0
+            }
+        ]
+    },
+    'KeyIngredients': {
+        'KeyIngredient': [
+            {
+                'Name': 'Pork'
+            },
+            {
+                'Name': 'Rice'
+            },
+            {
+                'Name': 'Vegetables'
+            }
+        ]
+    },
+    'Occasions': {
+        'Occasion': [
+            {
+                'Name': 'Dinner Party'
+            },
+            {
+                'Name': 'Potluck'
+            },
+            {
+                'Name': 'Entertaining'
+            }
+        ]
+    },
+    'Icons': None,
+    'SmartSEO': {
+        'SEO_URL': 'cheesy-mini-pepper-poppers-with-sprouted-rice',
+        'SEO_Title': None,
+        'SEO_Description': None
+    },
+    'Brands': {
+        'Brand': [
+            {
+                'RecipeID': 555,
+                'BrandID': 22,
+                'Name': 'truRoots',
+                'IsPrimaryBrand': True
+            }
+        ]
+    }
+},
+{
+    'Details': {
+        'Name': 'Peanut Butter & Jelly Squares (duplicate)',
+        'Description': None,
+        'ExperienceLevel': 'Easy',
+        'Course': 'Bars',
+        'Cuisine': None,
+        'KeyIngredient': 'Flour',
+        'CookingMethod': 'Bake',
+        'SpecialDiet': None,
+        'Occasion': 'Back to School',
+        'Brand': 'Santa Cruz Organic®',
+        'Group': None,
+        'Category': None,
+        'Variety': None,
+        'Yield': '16',
+        'Yield_Description': '2-inch square bars',
+        'Preparation_Days': 0,
+        'Preparation_Hours': 0,
+        'Preparation_Minutes': 15,
+        'Preparation_Seconds': 0,
+        'Cooking_Days': 0,
+        'Cooking_Hours': 0,
+        'Cooking_Minutes': 35,
+        'Cooking_Seconds': 0,
+        'LastUpdate': None,
+        'ReadyIn_Days': 0,
+        'ReadyIn_Hours': 1,
+        'ReadyIn_Minutes': 45,
+        'ReadyIn_Seconds': 0,
+        'Rating': None,
+        'ImagePath': 'http://www.yummly.com',
+        'Source': None,
+        'IsImageAvailable': True,
+        'RecipeStatus': 'Archived',
+        'IsTricksandTips': False,
+        'Recipe_Video_URL': None,
+        'IsPreferredRecipe': False,
+        'IsParticipateInPromotion': False,
+        'RatingReview': None,
+        'IsTemporaryRecipe': False,
+        'Internal_RatingID': None,
+        'TestingID': 5,
+        'Testing_Date': '1/1/0001',
+        'RecipeID': 0,
+        'SEO_URL': None,
+        'SEO_Title': None,
+        'SEO_Description': None,
+        'Preparation_Total_Minutes': 0,
+        'Cooking_Total_Minutes': 0,
+        'ReadyIn_Total_Minutes': 0
+    },
+    'Ingredients': {
+        'Ingredient': [
+            {
+                'DisplayOrder': 1,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'No-stick cooking spray',
+                'Amount': None,
+                'Unit': None,
+                'UnitAbbreviation': None,
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 2,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'butter',
+                'Amount': '6',
+                'Unit': 'tablespoons',
+                'UnitAbbreviation': 'tbsps.',
+                'Comment': 'softened',
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 3,
+                'RowType': 'Brand Ingredient',
+                'Name': 'Santa Cruz Organic® Light Roasted Creamy Peanut Butter',
+                'Amount': '1',
+                'Unit': 'cup',
+                'UnitAbbreviation': 'cup',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 4,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'light brown sugar ',
+                'Amount': '1/2',
+                'Unit': 'cup',
+                'UnitAbbreviation': 'cup',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 5,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'large egg',
+                'Amount': '1',
+                'Unit': None,
+                'UnitAbbreviation': None,
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 6,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'all purpose flour',
+                'Amount': '3/4',
+                'Unit': 'cup',
+                'UnitAbbreviation': 'cup',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 7,
+                'RowType': 'Non-Brand Ingredient',
+                'Name': 'salt',
+                'Amount': '1/2',
+                'Unit': 'teaspoon',
+                'UnitAbbreviation': 'tsp.',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            },
+            {
+                'DisplayOrder': 8,
+                'RowType': 'Brand Ingredient',
+                'Name': 'Santa Cruz Organic® Seedless Red Raspberry Fruit Spread',
+                'Amount': '1',
+                'Unit': 'jar',
+                'UnitAbbreviation': 'jar',
+                'Comment': None,
+                'Optional': False,
+                'Substitute': False,
+                'Ingredient_RecipeID': None
+            }
+        ]
+    },
+    'Directions': {
+        'Direction': [
+            {
+                'DisplayOrder': 1,
+                'Name': 'HEAT oven to 350°F. Coat 9x9 baking pan with no-stick cooking spray.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            },
+            {
+                'DisplayOrder': 2,
+                'Name': 'COMBINE butter, peanut butter and brown sugar in large bowl until smooth. Blend in egg. Stir in flour and salt mixing until dough forms. Reserve 3/4 cup dough for topping. Press dough evenly in bottom of pan. Evenly distribute fruit spread over dough in pan. Crumble reserved dough over fruit spread layer.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            },
+            {
+                'DisplayOrder': 3,
+                'Name': 'BAKE 25 to 30 minutes. Cool completely. Cut into 2-inch squares.',
+                'Direction_Or_Tip': 'Direction',
+                'DirectionType': 'Direction',
+                'DirectionOrder': 0
+            }
+        ]
+    },
+    'NutritionalInformation': {
+        'ServingSize': '1 bar of 28',
+        'CaloriesPerServing': 130.0,
+        'TotalFatGrams': 7.0,
+        'CaloriesFromFatGrams': 60.0,
+        'CaloriesFromFatGramsPctDailyValue': 0.0,
+        'SaturatedFatGrams': 2.5,
+        'SaturatedFatGramsPctDailyValue': 13.0,
+        'PolyunsaturatedFatGrams': 0.0,
+        'PolyunsaturatedFatGramsPctDailyValue': 0.0,
+        'MonounsaturatedFatGrams': 0.0,
+        'MonounsaturatedFatGramsPctDailyValue': 0.0,
+        'CholesterolMilligrams': 15.0,
+        'CholesterolMilligramsPctDailyValue': 5.0,
+        'SodiumMilligrams': 60.0,
+        'SodiumMilligramsPctDailyValue': 3.0,
+        'PotassiumMilligrams': 0.0,
+        'PotassiumMilligramsPctDailyValue': 0.0,
+        'TotalCarbohydratesGrams': 14.0,
+        'TotalCarbohydratesGramsPctDailyValue': 5.0,
+        'DietaryFiberGrams': 1.0,
+        'DietaryFiberGramsPctDailyValue': 4.0,
+        'SugarsGrams': 9.0,
+        'SugarsGramsPctDailyValue': 0.0,
+        'ProteinGrams': 3.0,
+        'ProteinGramsPctDailyValue': 0.0,
+        'VitaminA': 0.0,
+        'VitaminAPctDailyValue': 2.0,
+        'Calcium': 0.0,
+        'CalciumPctDailyValue': 0.0,
+        'VitaminD': 0.0,
+        'VitaminDPctDailyValue': 0.0,
+        'Thiamin': 0.0,
+        'ThiaminPctDailyValue': 0.0,
+        'Niacin': 0.0,
+        'NiacinPctDailyValue': 0.0,
+        'VitaminB6': 0.0,
+        'VitaminB6PctDailyValue': 0.0,
+        'Phosphorus': 0.0,
+        'PhosphorusPctDailyValue': 0.0,
+        'Zinc': 0.0,
+        'ZincPctDailyValue': 0.0,
+        'VitaminC': 0.0,
+        'VitaminCPctDailyValue': 0.0,
+        'Iron': 0.0,
+        'IronPctDailyValue': 2.0,
+        'VitaminE': 0.0,
+        'VitaminEPctDailyValue': 0.0,
+        'Riboflavin': 0.0,
+        'RiboflavinPctDailyValue': 0.0,
+        'Folate': 0.0,
+        'FolatePctDailyValue': 0.0,
+        'VitaminB12': 0.0,
+        'VitaminB12PctDailyValue': 0.0,
+        'Magnesium': 0.0,
+        'MagnesiumPctDailyValue': 0.0,
+        'Copper': 0.0,
+        'CopperPctDailyValue': 0.0,
+        'TransFatGrams': 0.0,
+        'TransFatGramsPctDailyValue': 0.0
+    },
+    'Courses': {
+        'Course': [
+            {
+                'Name': 'Bars',
+                'CourseID': 0
+            },
+            {
+                'Name': 'Dessert/Sweets',
+                'CourseID': 0
+            }
+        ]
+    },
+    'KeyIngredients': {
+        'KeyIngredient': [
+            {
+                'Name': 'Flour'
+            },
+            {
+                'Name': 'Peanut Butter'
+            },
+            {
+                'Name': 'Jam, Jelly or Preserves'
+            }
+        ]
+    },
+    'Occasions': {
+        'Occasion': [
+            {
+                'Name': 'Back to School'
+            },
+            {
+                'Name': 'Family Dinner'
+            },
+            {
+                'Name': 'Weekend Solutions'
+            },
+            {
+                'Name': 'Entertaining'
+            }
+        ]
+    },
+    'Icons': None,
+    'SmartSEO': {
+        'SEO_URL': 'peanut-butter--jelly-squares-duplicate',
+        'SEO_Title': None,
+        'SEO_Description': None
+    },
+    'Brands': {
+        'Brand': [
+            {
+                'RecipeID': 556,
+                'BrandID': 33,
+                'Name': 'Santa Cruz Organic®',
+                'IsPrimaryBrand': True
+            }
+        ]
+    }
+}

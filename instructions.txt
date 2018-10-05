@@ -4,3 +4,5 @@
    virtual\Scripts\activate
 3) install packages by using following command
    pip install -r requirements.txt
+4) run the project
+   python app.py
