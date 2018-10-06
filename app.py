@@ -31,9 +31,6 @@ def econcalendar():
         cursor.execute(qStr)
         # cursor.execute("SELECT * from "+TABLE_NAME + " where nyc_date = 20181003" )
         data = cursor.fetchall()
-        #print(data)
-        df = pandas.DataFrame(list(data), columns = ['Name', 'Country', 'Volatility', 'Actual', 'Estimated', 'Previous', 'utc_epoch', 'nyc_date', 'nyc_time'])
-        df = df[['nyc_date', 'nyc_time', 'Name', 'Country', 'Volatility', 'Actual', 'Estimated', 'Previous', 'utc_epoch']]
         
     return render_template('index.html',data=data)
 
