@@ -5,10 +5,10 @@ pipeline{
             }
     stages{
         stage("Build"){
-            
+            /*
             options{
                 skipDefaultCheckout()
-            }
+            }*/
             steps{
                  echo "hello1"
             }
