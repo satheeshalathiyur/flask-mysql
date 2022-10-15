@@ -10,7 +10,7 @@ pipeline{
                 skipDefaultCheckout()
             }*/
             steps{
-                 echo "hello1"
+                 echo "hello build"
             }
             
         }
