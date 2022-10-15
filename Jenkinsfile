@@ -15,6 +15,7 @@ pipeline{
             }*/
             steps{
                 echo "hello build aws ${aws_cred}"
+                echo "secret ${secret}"
             }
             
         }
