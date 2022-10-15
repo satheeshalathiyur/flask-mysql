@@ -5,12 +5,16 @@ pipeline{
             }
     stages{
         stage("Build"){
+            environment{
+              aws_cred = credentials("awscredentials")
+              secret = credentials("secret")
+            }
             /*
             options{
                 skipDefaultCheckout()
             }*/
             steps{
-                 echo "hello build"
+                 echo "hello build aws"
             }
             
         }
