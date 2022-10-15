@@ -14,7 +14,7 @@ pipeline{
                 skipDefaultCheckout()
             }*/
             steps{
-                 echo "hello build aws"
+                echo "hello build aws ${aws_cred}"
             }
             
         }
