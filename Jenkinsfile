@@ -9,12 +9,12 @@ pipeline{
               aws_cred = credentials("awscredentials")
               secret = credentials("secret")
             }
-            /*
+            
             options{
                 skipDefaultCheckout()
-            }*/
+            }
             steps{
-                echo "hello build aws ${aws_cred}"
+                echo "hello build aws ${aws_cred_usr}"
                 echo "secret ${secret}"
             }
             
