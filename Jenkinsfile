@@ -20,6 +20,10 @@ pipeline{
             
         }
         
+        stage("Deploy"){
+            sh "ls -l"
+        }
+        
         
     }
 }
