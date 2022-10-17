@@ -23,7 +23,7 @@ pipeline{
         stage("Deploy"){
             //sh "ls -l"
             steps{
-                echo "hai"
+                sh "ls -l"
             }
         }
         
